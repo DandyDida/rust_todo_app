@@ -1,6 +1,6 @@
 # 📌 Rust Todo CLI App
 
-Aplikasi CLI sederhana dengan Rust: menyimpan dan menampilkan daftar tugas. Cocok untuk pemula belajar Rust di IntelliJ IDEA.
+Aplikasi CLI sederhana dengan Rust: menyimpan dan menampilkan daftar tugas. Belajar Rust di IntelliJ IDEA.
 
 ## 🧰 Prasyarat
 
